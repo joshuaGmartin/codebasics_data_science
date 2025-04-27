@@ -1,0 +1,5 @@
+-teaching computers to think like humans (neural networks)
+    -training = deep learning
+-spam filter = ML (trained on spam)
+-alexa (learns accent and preferences)
+-YT algo (finds what's common in the watch hist and suggests)
